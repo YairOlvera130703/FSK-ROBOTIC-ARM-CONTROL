@@ -14,7 +14,7 @@ This repository contains the logic architecture, microcontroller code, and hardw
 * **Microcontroller:** [Arduino UNO]
 * **Modulation/Demodulation:** [XR2206/XR2211]
 * **Actuators:** [MG996 SERVOMOTORS]
-* **Programming Language:** C / C++
+* **Programming Language:** C / C++ , LABVIEW
 * **Development Environment:** [Arduino IDE]
 
 ## System Architecture
